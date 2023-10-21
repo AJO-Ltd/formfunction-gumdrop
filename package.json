@@ -2,7 +2,7 @@
   "name": "@formfunction-hq/formfunction-gumdrop",
   "version": "0.0.51",
   "description": "TypeScript SDK for interacting with Formfunction's gumdrop program for pNFT distribution.",
-  "repository": "https://github.com/formfunction-hq/formfn-gumdrop",
+  "repository": "https://github.com/AJO-Ltd/gumdrop",
   "license": "UNLICENSED",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
